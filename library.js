@@ -11,3 +11,7 @@ function sayGuest2(){
 function sayGuest3(){
     return "Hello";
 }
+
+function sum(a,b){
+    return a+b;
+}
