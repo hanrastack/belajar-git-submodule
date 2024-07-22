@@ -1,3 +1,3 @@
-function isRealease{
+function isRealease(){
     return true;
 }
