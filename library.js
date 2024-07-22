@@ -8,3 +8,6 @@ function sayGuest(){
 function sayGuest2(){
     return "Hello";
 }
+function sayGuest3(){
+    return "Hello";
+}
